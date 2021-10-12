@@ -8,6 +8,7 @@ class JavaBasicChallange {
         String status = "Mahasiswa";
         String univ = "STMIK Akakom Yogyakarta";
         String prodi = "Sistem Informasi";
+        String hobby = "Nonton Film";
 
         System.out.println("Name : " + firstName + " " + lastName);
         System.out.println("Last Name : " + lastName);
@@ -17,6 +18,6 @@ class JavaBasicChallange {
         System.out.println("Status : " + status);
         System.out.println("University : " + univ);
         System.out.println("Study Program : " + prodi);
-
+        System.out.println("Hobby : " + hobby);
     }
 }
